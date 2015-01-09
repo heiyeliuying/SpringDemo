@@ -25,5 +25,8 @@
 			<attribute name="owner.project.facets" value="me.spring"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="libs/mybatis-3.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/mybatis-spring-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.0.0-beta-bin.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
